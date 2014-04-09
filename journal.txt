@@ -1,7 +1,7 @@
 Paper
 
 Title Adaptive evolution of the plant pathogen Albugo candida
-Authors: Agathe Jouet
+Authors: Agathe Jouet, Sainsbury Laboratory
 
 Abstract
 
